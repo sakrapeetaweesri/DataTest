@@ -1,0 +1,57 @@
+TR>
+<STR ID="Path">C:\Program Files (x86)\Lenovo\System Update\SUService.exe</STR>
+<STR ID="Vendor" />
+<STR ID="Version">5.7.0.92</STR>
+<STR ID="Timestamp">01/08/2020 14:51:56</STR>
+<DEC ID="File Size">24328</DEC>
+<CHK>836B1A7B4A00740CF588026A1FBF08656E6E7AFC</CHK>
+</ROW>
+<ROW ID="svsvc">
+<STR ID="Service">svsvc</STR>
+<STR ID="Name">Spot Verifier</STR>
+<STR ID="Status">Stopped</STR>
+<STR ID="Startup">Manual</STR>
+<STR ID="Path">C:\WINDOWS\system32\svchost.exe</STR>
+<STR ID="Vendor">Microsoft Corporation</STR>
+<STR ID="Version">10.0.19041.546</STR>
+<STR ID="Timestamp">12/13/2021 11:35:52</STR>
+<DEC ID="File Size">57360</DEC>
+<CHK>D6A221B6B3FB615B13D9F2A36EE3BD69271C4EE5</CHK>
+</ROW>
+<ROW ID="swprv">
+<STR ID="Service">swprv</STR>
+<STR ID="Name">Microsoft Software Shadow Copy Provider</STR>
+<STR ID="Status">Stopped</STR>
+<STR ID="Startup">Manual</STR>
+<STR ID="Path">C:\WINDOWS\System32\svchost.exe</STR>
+<STR ID="Vendor">Microsoft Corporation</STR>
+<STR ID="Version">10.0.19041.546</STR>
+<STR ID="Timestamp">12/13/2021 11:35:52</STR>
+<DEC ID="File Size">57360</DEC>
+<CHK>3A95F363399A6044201B9F0DB6FA319146FD9DFA</CHK>
+</ROW>
+<ROW ID="SysMain">
+<STR ID="Service">SysMain</STR>
+<STR ID="Name">SysMain</STR>
+<STR ID="Status">Running</STR>
+<STR ID="Startup">Auto</STR>
+<STR ID="Path">C:\WINDOWS\system32\svchost.exe</STR>
+<STR ID="Vendor">Microsoft Corporation</STR>
+<STR ID="Version">10.0.19041.546</STR>
+<STR ID="Timestamp">12/13/2021 11:35:52</STR>
+<DEC ID="File Size">57360</DEC>
+<CHK>0E4B814B574C9AEF7377766D3974CEBA46CE4264</CHK>
+</ROW>
+<ROW ID="SystemEventsBroker">
+<STR ID="Service">SystemEventsBroker</STR>
+<STR ID="Name">System Events Broker</STR>
+<STR ID="Status">Running</STR>
+<STR ID="Startup">Auto</STR>
+<STR ID="Path">C:\WINDOWS\system32\svchost.exe</STR>
+<STR ID="Vendor">Microsoft Corporation</STR>
+<STR ID="Version">10.0.19041.546</STR>
+<STR ID="Timestamp">12/13/2021 11:35:52</STR>
+<DEC ID="File Size">57360</DEC>
+<CHK>F8CEB96C29035175E06A7CA01805A27B91D64ED3</CHK>
+</ROW>
+<ROW ID="TabletInputService"
